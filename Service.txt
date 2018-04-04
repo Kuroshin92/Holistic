@@ -1,0 +1,33 @@
+ <h2> Menu </h2>
+             <img class="menu-logo" src="images/seeds-of-melanin-concept-2.jpg"alt="Logo"> 
+               <p><span style =color:greenyellow>Plan A</span>: Plant based Alkaline Meals $199.99/ ?$189.00
+-?This plan is designed for you to have the full alkaline eating experience. All
+meals are prepared sticking solely to Dr. Sebi’s food guide.
+ </p>
+		  <p>  <span style =color:greenyellow> Plan B</span>: Vegan Meals $175.00/ ?$165.99
+-All meals are prepared using only vegan ingredients. (Food list available)
+                     </p>
+        <p>
+<span style =color:greenyellow>  Plan C</span>: Wholistic Wellness Raw Alkaline Meals and Herbs $229.99/?$215.00
+- ?This is a customized plan designed to aid in the healing and regeneration of
+those with specific health concerns. All meals are prepared raw and includes
+weekly herbal supplements to help you through the healing process. Must
+schedule a free consultation.
+ </p>
+       
+      <p> <span style =color:greenyellow>Plan D</span> : Healthy meals for Transitioning Vegans
+$265.00/?$249.99
+-Designed to help those who are transitioning to a vegan lifestyle. Includes one
+organic Chicken Meal per day.
+</p>   
+
+     <p>
+ <h5><span style =color:greenyellow>*Member Price*</span></h5>
+*All plans are for 5 days (Mon-Fri) and include 3 meals and 1 snack per day.
+Orders for the following week must be placed by Saturdays no later than
+noon. Pick up times are between 7-10 am. On Saturdays and Sundays a
+selection of food will be available buffet? ?style where you can come and
+serve yourself for $9.99 lb?. ?Food list are available. Each individual must fill
+out a client intake form before starting any plans.
+     </p>
+      

@@ -1,0 +1,106 @@
+/*CUSTOM*/
+
+body { margin: 2px ;
+	   
+	
+}
+
+
+/*Jumbotron*/ 
+.jumbotron {
+	background-image:url("../images/banner.jpg");
+	background-size:cover;
+	background-repeat: no-repeat;
+	
+}
+
+.top { margin-bottom: 30px;
+	
+	
+}
+
+.bottom{ Margin-top: 20px;
+	
+}
+
+.display-4{ margin-Top: 40px;
+	        font-family: arial,sans-serif;
+	        font-size: 30px;
+	        color:white;
+	        margin-left:  30%;
+	        margin-right: 26%;
+	
+}
+
+/*ABOUT*/ 
+.About {  text-decoration:underline;
+	           font-family: cursive;
+}
+
+.leads{ font-size: 20px;
+	
+}
+
+.blockquote{ font-family:arial, cursive;
+	      font-size: 17px;
+	
+}
+
+
+/*Service Menu*/	
+
+
+.special-menu { color:greenyellow;
+	             font-weight:700;
+	
+}
+
+.card{ 
+	   margin-top: 10%;
+	   padding-right: px;
+	   padding-left: px;
+	   margin-bottom: 30px;
+      
+	
+}
+
+
+
+
+.rounded {
+	      margin-top:5rem;
+	      margin-bottom:2rem;
+	      padding-bottom: 40px;
+	
+}
+
+
+.contact-title{ margin-top:10%;
+	            font-family:
+	
+}
+
+.form {
+	    margin-top:14px;
+	    padding:20px;
+	    background-color: deepskyblue;
+	    color:white;
+}
+
+.form-group{
+	           padding-left: 30px;
+	           padding-right: 150px;
+}
+
+
+.btn {
+	  margin-left:30px;
+	
+}
+
+
+
+
+
+
+
